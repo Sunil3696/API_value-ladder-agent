@@ -21,7 +21,7 @@ console.log(qaPairs)
 
 
 Business Model
-Business Type: [B2C or B2B]
+Business Type: [B2C or B2B]z
 Target Market: [Brief description of ideal client]
 Your Five-Tier Value Ladder
 Tier 1: Free Offer

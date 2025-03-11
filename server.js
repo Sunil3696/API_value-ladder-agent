@@ -29,7 +29,7 @@ app.use("/api/value-ladder", valueLadderRoutes);
 
 app.use('/test4', (req, res) => {
    
-    res.json("Congratulations on deployement")
+    res.json("Congratulations on deployement of Value ladder")
 })
 
 
